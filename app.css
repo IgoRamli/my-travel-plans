@@ -40,6 +40,7 @@ body {
     text-align: center;
 }
 
+//These should've been added directly to GitHub
 .destination:hover h2 {
     transform: rotate(0deg);
 }
